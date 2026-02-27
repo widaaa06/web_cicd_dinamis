@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Punya wida</title>
+    <title>milik wida</title>
     <meta name="author" content="Yasser Elgammal">
     <meta name="description" content="Admin panel for managing blog content and settings.">
     <!-- Tailwind -->
